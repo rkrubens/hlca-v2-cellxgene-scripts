@@ -1,0 +1,158 @@
+cell_type_annotation,cell_type_ontology_term_id
+Immune,CL:0000583
+Epithelial,CL:0002063
+Endothelial,CL:0002543
+Stroma,CL:2000093
+Myeloid,CL:0000583
+Lymphoid,CL:0000623
+Alveolar epithelium,CL:0002063
+Airway epithelium,CL:0002633
+Blood vessels,CL:0002543
+Fibroblast lineage,CL:2000093
+Smooth muscle,CL:0000192
+Submucosal Gland,CL:0019001
+Lymphatic EC,CL:0002138
+Mesothelium,CL:0000077
+Hematopoietic stem cells,CL:0000037
+Macrophages,CL:0000583
+Innate lymphoid cell NK,CL:0000623
+AT2,CL:0002063
+Basal,CL:0002633
+EC venous,CL:0002543
+T cell lineage,CL:0000625
+EC arterial,CL:1001568
+Fibroblasts,CL:2000093
+AT1,CL:0002062
+Multiciliated lineage,CL:0002145
+B cell lineage,CL:0000786
+Secretory,CL:0002480
+SM activated stress response,CL:0000192
+Monocytes,CL:0000860
+Submucosal Secretory,CL:0019001
+EC capillary,CL:0002144
+Lymphatic EC mature,CL:0002138
+None,CL:0019019
+Rare,CL:1000223
+Lymphatic EC differentiating,CL:0002138
+Dendritic cells,CL:0002399
+Myofibroblasts,CL:0000186
+Mast cells,CL:0000097
+Smooth muscle FAM83D+,CL:0000499
+Lymphatic EC proliferating,CL:0002138
+Alveolar macrophages,CL:0000583
+NK cells,CL:0000623
+None,CL:0002063
+Suprabasal,CL:0002633
+Basal resting,CL:0002633
+EC venous pulmonary,CL:0002543
+CD8 T cells,CL:0000625
+Peribronchial fibroblasts,CL:2000093
+CD4 T cells,CL:0000624
+Multiciliated,CL:0002145
+Plasma cells,CL:0000786
+Hillock-like,CL:4030023
+Goblet,CL:0002480
+Club,CL:0000158
+Classical monocytes,CL:0000860
+Interstitial macrophages,CL:0000861
+SMG serous,CL:0019001
+EC venous systemic,CL:0002543
+Non-classical monocytes,CL:0000875
+EC general capillary,CL:0002144
+Adventitial fibroblasts,CL:4028006
+EC aerocyte capillary,CL:0002144
+Transitional Club-AT2,CL:0002632
+Alveolar fibroblasts,CL:4028004
+Neuroendocrine,CL:1000223
+DC2,CL:0002399
+DC1,CL:0000990
+B cells,CL:0000236
+SMG mucous,CL:0000319
+AT2 proliferating,CL:0002063
+Pericytes,CL:0009089
+SMG duct,CL:0000622
+Ionocyte,CL:0005006
+Deuterosomal,CL:0005012
+Tuft,CL:0002075
+Plasmacytoid DCs,CL:0000784
+T cells proliferating,CL:0000084
+Subpleural fibroblasts,CL:0000057
+Migratory DCs,CL:0000451
+None,CL:0000583
+Alveolar Mph CCL3+,CL:0000583
+Multiciliated (non-nasal),CL:0002145
+Goblet (nasal),CL:0002480
+Club (nasal),CL:0000158
+Monocyte-derived Mph,CL:0000861
+Alveolar Mph proliferating,CL:0000583
+Club (non-nasal),CL:0000158
+SMG serous (bronchial),CL:0019001
+pre-TB secretory,CL:0002632
+Multiciliated (nasal),CL:0005012
+Goblet (bronchial),CL:1000312
+Interstitial Mph perivascular,CL:1001603
+Goblet (subsegmental),CL:0019003
+AT0,CL:0010003
+SMG serous (nasal),CL:0000313
+Alveolar Mph MT-positive,CL:0000583
+Alveolar macrophages,CL:0000583
+NK cells,CL:0000623
+AT2,CL:0002063
+Alveolar Mph CCL3+,CL:0000583
+Suprabasal,CL:0002633
+Basal resting,CL:0002633
+EC venous pulmonary,CL:0002543
+CD8 T cells,CL:0000625
+EC arterial,CL:1001568
+Peribronchial fibroblasts,CL:2000093
+CD4 T cells,CL:0000624
+AT1,CL:0002062
+Multiciliated (non-nasal),CL:0002145
+Plasma cells,CL:0000786
+Hillock-like,CL:4030023
+Goblet (nasal),CL:0002480
+Club (nasal),CL:0000158
+SM activated stress response,CL:0000192
+Classical monocytes,CL:0000860
+Monocyte-derived Mph,CL:0000861
+Alveolar Mph proliferating,CL:0000583
+Club (non-nasal),CL:0000158
+SMG serous (bronchial),CL:0019001
+EC venous systemic,CL:0002543
+Non-classical monocytes,CL:0000875
+EC general capillary,CL:0002144
+Adventitial fibroblasts,CL:4028006
+Lymphatic EC mature,CL:0002138
+EC aerocyte capillary,CL:0002144
+pre-TB secretory,CL:0002632
+Smooth muscle,CL:0019019
+Alveolar fibroblasts,CL:4028004
+Multiciliated (nasal),CL:0005012
+Goblet (bronchial),CL:1000312
+Neuroendocrine,CL:1000223
+Lymphatic EC differentiating,CL:0002138
+DC2,CL:0002399
+DC1,CL:0000990
+Myofibroblasts,CL:0000186
+B cells,CL:0000236
+Mast cells,CL:0000097
+Interstitial Mph perivascular,CL:1001603
+SMG mucous,CL:0000319
+AT2 proliferating,CL:0002063
+Goblet (subsegmental),CL:0019003
+Pericytes,CL:0009089
+AT0,CL:0010003
+SMG duct,CL:0000622
+Mesothelium,CL:0000077
+SMG serous (nasal),CL:0000313
+Ionocyte,CL:0005006
+Alveolar Mph MT-positive,CL:0000583
+Smooth muscle FAM83D+,CL:0000499
+Deuterosomal,CL:0005012
+Tuft,CL:0002075
+Plasmacytoid DCs,CL:0000784
+T cells proliferating,CL:0000084
+Subpleural fibroblasts,CL:0000057
+Hematopoietic stem cells,CL:0000037
+Lymphatic EC proliferating,CL:0002138
+Migratory DCs,CL:0000451

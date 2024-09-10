@@ -1,0 +1,49 @@
+author_cell_type,cell_type_ontology_term_id,Comment,full_name,abbreviation,author_cell_type_markers
+Alveolar fibroblast 2 (AF2),CL:4028006,,Alveolar fibroblast 2,AF2,MFAP5; SCARA5; CDON; DCN; PLA2G2A; SFRP2; LUM; ADH1B; COL1A2; LAMA2
+Alveolar fibroblast 1 (AF1),CL:4028004,,Alveolar fibroblast 1,AF1,TCF21; PCDH15; WNT2; ROBO2; LUM; SLIT2; DCN; PRKG1; SCN7A; MFAP4
+Alveolar macrophage (AM),CL:0000583,,Alveolar macrophage,AM,FABP4; MARCO; CYP27A1; PPARG; ABCG1; SIGLEC1; C1QB; APOC1; C1QA; C1QC
+Alveolar type 1 cell (AT1),CL:0002062,,Alveolar type 1 cell,AT1,AGER; RTKN2; SEMA3B; NTM; NCKAP5; LMO7; KHDRBS2; LIMCH1; LAMA3; SCEL
+Alveolar type 2 cell (AT2),CL:0002063,,Alveolar type 2 cell,AT2,ABCA3; LAMP3; KCNJ15; SFTPC; SFTPA1; SFTPA2; SFTPB; PGC; NAPSA; SFTPD
+B cell (B),CL:0000236,,B cell,B,BANK1; MS4A1; CD19; BACH2; IGHM; EBF1; CD79A; BLK; PAX5; CD79B
+Basal cell (Basal),CL:0002633,,Basal cell,Basal,KRT5; TP63; NGFR; KRT15; KRT17; MMP10; S100A2; ALDH3A1; SERPINF1; TACSTD2
+CD4+ T cell (CD4 T),CL:0000624,,CD4+ T cell,CD4 T,CD3E; LEF1; CD40LG; MAL; CD4; CD69; ITK; LTB; TRAC; RHOH
+CD8+ T cell (CD8 T),CL:0000625,,CD8+ T cell,CD8 T,CD8A; CD3E; CD8B; CCL5; NKG7; GZMA; GZMH; IL32; CD3D; CCL4
+Inflammatory monocyte (iMON),CL:0000860,,Inflammatory monocyte,iMON,VCAN; FCN1; CD14; S100A8; JARID2; S100A12; THBS1; EREG; IL1R2; SCHLAP1
+Secretory cell (Secretory),CL:0000158,,Secretory cell,Secretory,SCGB1A1; BPIFB1; LCN2; TSPAN8; SCUBE2; SAA2; CCL20; CP; TMEM45A; MMP7
+Classical DC subset 1 (cDC1),CL:0000990,Please advise if there is a better term for this CLEC9A+ DC,Classical DC subset 1,cDC1,CLEC9A; FLT3; ZBTB46; LGALS2; DNASE1L3; WDFY4; HLA-DOB; XCR1; CLNK; BATF3
+Classical DC subset 2 (cDC2),CL:0002399,,Classical DC subset 2,cDC2,CD1E; CLEC10A; FCGR2B; CD1C; CCL17; FCER1A; MS4A6A; AIF1; HLA-DMB; C1QC
+Deuterosomal cell (Deuterosomal),CL:4033044,,Deuterosomal cell,Deuterosomal,CDC20B; DEUP1; FOXN4; SHISA8
+Capillary 2 cell (CAP2),CL:4028003,,Capillary 2 cell,CAP2,HPGD; EDNRB; CA4; APLN; SOSTDC1; CLDN5; EMCN; RAMP2; IL1RL1; AQP1
+Arterial endothelial cell (AEC),CL:1001568,,Arterial endothelial cell,AEC,DKK2; GJA5; BMX; IGFBP3; FAM107A; MT1A; PTPRB; CLEC14A; LDB2; SRPX
+Capillary 1 cell (CAP1),CL:4028002,,Capillary 1 cell,CAP1,FCN3; IL7R; GPIHBP1; TMEM100; SLC6A4; IL1RL1; EDN1; BTNL9; CLEC14A; POSTN
+Venous endothelial cell (VEC),CL:0002543,,Venous endothelial cell,VEC,ACKR1; EPHB4; HDAC9; VWF; CCL23; C7; LIFR; PTPRB; SLCO2A1; RAMP3
+Systemic venous endothelial cell (SVEC),UBERON:0001592,Please advise if there is a cell ontology term,Systemic venous endothelial cell,SVEC,ACKR1; COL15A1; VWA1; ABCB1; CCL14; PLVAP; AQP1; VWF; TSPAN7; ECSCR
+Airway smooth muscle cell (ASMC),CL:0019019,Please advise if there is a better term,Airway smooth muscle cell,ASMC,DES; LGR6; BCHE; PLN; ASPN; PRUNE2; HSPB7; GREM2; TYRP1; ATP1A2
+Goblet cell (Goblet),CL:0000160,,Goblet cell,Goblet,MUC5AC; AGR2; SPDEF; SLC4A11; PSCA; LYPD2; MUC5B; CEACAM5; CYP2F1; FCGBP
+Interstitial macrophage (IM),CL:4033043,,Interstitial macrophage,IM,F13A1; STAB1; FOLR2; SLC40A1; CD163L1; MERTK; GPR183; FPR3; C9
+Ionocyte cell (Ionocyte),CL:0005006,,Ionocyte cell,Ionocyte,ASCL3; FOXI1; CFTR; CEL; TMEM61; SCNN1B; BPIFA2; TFCP2L1; CLCNKB; ATP6V1G3
+Lymphatic endothelial cell (LEC),CL:0002138,,Lymphatic endothelial cell,LEC,CCL21; MMRN1; PROX1; LYVE1; PPFIBP1; GNG11; SNCG; AKAP12; NRP2; PKHD1L1
+Mast/Basophil (Mast/Basophil),CL:0000097,"Not unambiguous, could be either CL:0000097 or CL:0000767",Mast/Basophil,Mast/Basophil,TPSB2; TPSAB1; MS4A2; CPA3; HPGDS; RGS1; VWA5A; LTC4S; KIT; RHEX
+Mesothelial cell (Mesothelial),CL:0000077,,Mesothelial cell,Mesothelial,UPK3B; CALB2; WT1; HP; ITLN1; PLA2G2A; PRG4; TFPI2; HAS1; BCHE
+Mature DC subset (maDC),CL:4033045,Based on the correlation mapping to HLCA migratory DCs,Mature DC subset,maDC,CCR7; LAD1; NCCRP1; CCL19; CCL22; CCL17; IL4I1; EBI3; SLCO5A1; CD80
+Ciliated cell (Ciliated),CL:4030034,,Ciliated cell,Ciliated,RSPH1; CDHR3; FOXJ1; CDHR4; CAPS; C20orf85; C9orf24; TMEM190; TPPP3; C1orf194
+Secondary crest myofibroblast (SCMF),CL:0000186,,Secondary crest myofibroblast,SCMF,ITGBL1; FGF18; PDGFRA; ASPN; CCN5; COL3A1; PRELP; DPT; LTBP2; COL1A2
+Pulmonary neuroendocrine cell (PNEC),CL:1000223,,Pulmonary neuroendocrine cell,PNEC,GRP; CALCA; ASCL1; NRXN1; PCSK1N; SCG2; CHGA; SCG5; GP2; CHGB
+Natural killer cell (NK),CL:0000623,,Natural killer cell,NK,NKG7; KLRD1; KLRC1; NCAM1; GNLY; GZMB; CCL4; PRF1; CD247; CCL5
+Patrolling monocyte (pMON),CL:0000875,,Patrolling monocyte,pMON,FCGR3A; FCN1; TNFRSF8; LST1; AIF1; SMIM25; SERPINA1; LILRB2; MS4A7; CFP
+Pericyte (Pericyte),CL:0009089,,Pericyte,Pericyte,PDGFRB; LAMC3; CSPG4; TRPC6; COX4I2; HIGD1B; BGN; NDUFA4L2; PTN; EGFL6
+Plasma cell (Plasma),CL:0000786,,Plasma cell,Plasma,CD38; CD27; SDC1; JCHAIN; IGLC3; IGHM; IGHG1; IGHG3; IGHA2; MZB1
+Plasmacytoid DC (pDC),CL:0000784,,Plasmacytoid DC,pDC,PLD4; LILRA4; CLEC4C; GZMB; IRF7; IRF8; GPR183; TCL1A; CXCR3; CLIC3
+SMG Basal/Duct cell (SMG Basal/Duct),CL:4033024,,SMG Basal/Duct cell,SMG Basal/Duct,RARRES1; MIA; ALDH1A3; KRT14; SOX9; MMP7; SAA2; PI3; STATH; CFB
+Mucous cell (Mucous),CL:4033022,,Mucous cell,Mucous,BPIFB2; MUC5B; SPDEF; TFF1; AZGP1; TCN1; FAM3D; GOLM1; MSMB; AQP5
+Serous cell (Serous),CL:4033005,,Serous cell,Serous,LYZ; LTF; LPO; PRB3; PRR4; PRB1; AC020656.1; PRB4; PIP; PRH2
+Vascular smooth muscle cell (VSMC),CL:0000359,,Vascular smooth muscle cell,VSMC,CNN1; NTRK3; ITGA7; TAGLN; MUSTN1; C11orf96; ACTA2; MYH11; TPM2; RERGL
+Suprabasal cell (Suprabasal),CL:4033048,,Suprabasal cell,Suprabasal,KRT19; SERPINB4; NOTCH3; SERPINB3; S100A2; KRT6A; AQP3; KRT5; TACSTD2; KRT13
+Respiratory airway secretory cell (RAS),UBERON:0001955,Please advise if there is a cell ontology term,Respiratory airway secretory cell,RAS,SCGB3A2; MGP; SOX4; KLK11; TMEM45A; CTSE
+Tuft cell (Tuft),CL:0002075,,Tuft cell,Tuft,IL23A; POU2F3; ASCL2; NREP; HEPACAM2; NMU; MYB; FOXI1; COLCA2; NOS2
+Myoepithelial cell (MEC),CL:4033003,,Myoepithelial cell,MEC,KRT14; MYH11; KRT17; SAA1; TPM2; ACTG2; MYLK; ACTA2; TAGLN; CXCL14
+Neutrophil,CL:0000775,,Neutrophil,Neutrophil,FCGR3B; CSF3R; IL1B; S100A8; S100A12; G0S2; BCL2A1; BASP1; PTGS2; MNDA
+Megakaryocyte/Platelet,CL:0000556,,Megakaryocyte/Platelet,Megakaryocyte/Platelet,GP1BB; ITGA2B; ITGB3; PPBP; PF4; TUBB1; ACRBP; GP9; PTCRA; CMTM5
+T regulatory cell (Treg),CL:0000815,,T regulatory cell,Treg,IL2RA; FOXP3; CTLA4; TRAC; LTB; TRBC1; CD3D; TRBC2; CD2; TNFRSF4
+Innate lymphoid cell (ILC),CL:0001065,,Innate lymphoid cell,ILC,IL7R; CXCR3; TBX21
+Chondrocyte,CL:0000138,,Chondrocyte,Chondrocyte,ACAN; HAPLN1; COL2A1; SOX9
